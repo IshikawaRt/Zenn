@@ -1,0 +1,9 @@
+title: "Pythonメモ"
+summary: "Pythonに関するエラーや、テクニックを備忘録として書き留めています。"
+topics: ["Python", "プログラミング", "エラー"]
+published: true # 公開設定
+price: 0 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - example1
+  - example2
